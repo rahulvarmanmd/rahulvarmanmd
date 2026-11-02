@@ -1,5 +1,10 @@
+<div align="center">
+
 # Rahul M. Varman, MD
+
 ### Facial Plastic & Reconstructive Surgeon | Otolaryngology – Head & Neck Surgery | Clinical Research & Healthcare Innovation
+
+</div>
 
 <p align="center">
   <a href="mailto:rahul.varman@gmail.com">
